@@ -3,5 +3,11 @@
 
 
 ### 이미지
- - 이미지 줌 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) 
- - 멀티 이미지 픽커 [Matisse](https://github.com/zhihu/Matisse)
+## [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) 
+ - 이미지 줌 
+ 
+## [Matisse](https://github.com/zhihu/Matisse)
+ - 멀티 이미지 픽커 
+ 
+## [GlidePalette]https://github.com/florent37/GlidePalette 
+ - 이미지 컬러를 비중에 맞게 추출함
