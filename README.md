@@ -3,12 +3,8 @@
 
 
 ### 이미지
-|
-| [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) 
- - 이미지 줌 
- 
-| [Matisse](https://github.com/zhihu/Matisse)
- - 멀티 이미지 픽커 
- 
-| [GlidePalette]https://github.com/florent37/GlidePalette 
- - 이미지 컬러를 비중에 맞게 추출함
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view | 이미지 줌 | Apache License V2 |
+| Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
+| GlidePalette | https://github.com/florent37/GlidePalette | 이미지 컬러 추출 | Apache License V2 | 
