@@ -4,3 +4,4 @@
 
 ### 이미지
  - 이미지 줌 [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) 
+ - 멀티 이미지 픽커 [Matisse](https://github.com/zhihu/Matisse)
