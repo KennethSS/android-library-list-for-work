@@ -13,3 +13,8 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | leakcanary | https://github.com/square/leakcanary | 메모리 누수 검출 | Apache License V2 |
+
+### 디버그
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| Timber | https://github.com/JakeWharton/timber | 디버깅 로그 | Apache License V2 |
