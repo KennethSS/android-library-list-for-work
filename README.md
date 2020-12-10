@@ -9,6 +9,13 @@
 | MVVM,Dagger2, Room, RxJava | https://github.com/MindorksOpenSource/android-mvvm-architecture | Apache License V2 |
 | Clean Architecture | https://github.com/bufferapp/android-clean-architecture-boilerplate.git | MIT License |
 
+### Declarative UI
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| Anko | https://github.com/Kotlin/anko | Deprecated | Apache License V2 |
+| Compose | https://github.com/android/compose-samples | Jetpack Declarative UI | Apache License V2 |
+| Splitties | https://github.com/LouisCAD/Splitties | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
+
 
 
 ### 이미지
