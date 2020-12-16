@@ -17,6 +17,11 @@
 | Splitties | https://github.com/LouisCAD/Splitties | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
 
 
+### List
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| UltimateRecyclerView | https://github.com/cymcsg/UltimateRecyclerView | List with animation | Apache License V2 |
+
 
 ### 이미지
 | Name | Repository | Note | Licence |
