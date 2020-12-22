@@ -32,6 +32,12 @@
 | subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view | 이미지 줌 | Apache License V2 |
 | Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
 
+### Media
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| Music-Player | https://github.com/andremion/Music-Player | Music Player | Apache License V2 |
+
+
 ### 앱 성능
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
