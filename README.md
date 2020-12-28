@@ -37,6 +37,11 @@
 |:------:|:-----------:|:---------:|:---------:|
 | Music-Player | https://github.com/andremion/Music-Player | Music Player | Apache License V2 |
 
+### Event
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| EventBus | https://github.com/greenrobot/EventBus | EventBus for java or android | Apache License V2 |
+
 
 ### Performence
 | Name | Repository | Note | Licence |
