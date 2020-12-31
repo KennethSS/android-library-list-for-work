@@ -21,6 +21,8 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | UltimateRecyclerView | https://github.com/cymcsg/UltimateRecyclerView | List with animation | Apache License V2 |
+| GravitySnapHelper | https://github.com/rubensousa/GravitySnapHelper | SnapHelper | Apache License V2 |
+
 
 
 ### Image
