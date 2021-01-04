@@ -60,3 +60,9 @@
 |:------:|:-----------:|:---------:|:---------:|
 | mockito | https://github.com/mockito/mockito | Test for mock | MIT License |
 | mockito-kotlin | https://github.com/nhaarman/mockito-kotlin | Test for mock with kotlin | MIT License |
+
+### View Component
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| SmoothBottomBar | https://github.com/ibrahimsn98/SmoothBottomBar | BottomNavigation | MIT License |
+
