@@ -34,10 +34,13 @@
 | subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view | 이미지 줌 | Apache License V2 |
 | Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
 
+
 ### Media
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | Music-Player | https://github.com/andremion/Music-Player | Music Player | Apache License V2 |
+| android-youtube-player | https://github.com/PierfrancescoSoffritti/android-youtube-player | Youtube Player | MIT License |
+
 
 ### Event
 | Name | Repository | Note | Licence |
@@ -50,16 +53,19 @@
 |:------:|:-----------:|:---------:|:---------:|
 | leakcanary | https://github.com/square/leakcanary | 메모리 누수 검출 | Apache License V2 |
 
+
 ### Debug
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | Timber | https://github.com/JakeWharton/timber | 디버깅 로그 | Apache License V2 |
+
 
 ### Test
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | mockito | https://github.com/mockito/mockito | Test for mock | MIT License |
 | mockito-kotlin | https://github.com/nhaarman/mockito-kotlin | Test for mock with kotlin | MIT License |
+
 
 ### View Component
 | Name | Repository | Note | Licence |
