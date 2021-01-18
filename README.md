@@ -8,8 +8,7 @@
 |:------:|:-----------:|:---------:|
 | MVVM,Dagger2, Room, RxJava | https://github.com/MindorksOpenSource/android-mvvm-architecture | Apache License V2 |
 | Clean Architecture | https://github.com/bufferapp/android-clean-architecture-boilerplate.git | MIT License |
-| MvRx | https://github.com/airbnb/MvRx | Apache License V2 |
-
+| MvRx | https://github.com/airbnb/MvRx | MvRx | Apache License V2 |
 
 
 ### Declarative UI
@@ -25,6 +24,7 @@
 |:------:|:-----------:|:---------:|:---------:|
 | UltimateRecyclerView | https://github.com/cymcsg/UltimateRecyclerView | List with animation | Apache License V2 |
 | GravitySnapHelper | https://github.com/rubensousa/GravitySnapHelper | SnapHelper | Apache License V2 |
+| epoxy | https://github.com/airbnb/epoxy | Complex ListView | Apache License V2 |
 
 
 
@@ -43,6 +43,12 @@
 |:------:|:-----------:|:---------:|:---------:|
 | Music-Player | https://github.com/andremion/Music-Player | Music Player | Apache License V2 |
 | android-youtube-player | https://github.com/PierfrancescoSoffritti/android-youtube-player | Youtube Player | MIT License |
+
+
+### Animation
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| lottie-android | https://github.com/airbnb/lottie-android | Lottie | Apache License V2 |
 
 
 ### Event
