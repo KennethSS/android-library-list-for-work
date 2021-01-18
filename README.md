@@ -80,4 +80,8 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | SmoothBottomBar | https://github.com/ibrahimsn98/SmoothBottomBar | BottomNavigation | MIT License |
+| Alerter | https://github.com/Tapadoo/Alerter | Alert from Top | MIT License |
+
+
+
 
