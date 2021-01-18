@@ -8,6 +8,9 @@
 |:------:|:-----------:|:---------:|
 | MVVM,Dagger2, Room, RxJava | https://github.com/MindorksOpenSource/android-mvvm-architecture | Apache License V2 |
 | Clean Architecture | https://github.com/bufferapp/android-clean-architecture-boilerplate.git | MIT License |
+| MvRx | https://github.com/airbnb/MvRx | Apache License V2 |
+
+
 
 ### Declarative UI
 | Name | Repository | Note | Licence |
