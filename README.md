@@ -83,6 +83,11 @@
 | Alerter | https://github.com/Tapadoo/Alerter | Alert from Top | MIT License |
 | material-dialogs | https://github.com/afollestad/material-dialogs | Material dialog | Apache License V2 |
 
+### Util
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| richeditor-android | https://github.com/wasabeef/richeditor-android | Editor | Apache License V2 |
+
 
 
 
