@@ -36,6 +36,8 @@
 | Coil | https://github.com/coil-kt/coil | 경량 이미지 로드 | Apache License V2 | 
 | subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view | 이미지 줌 | Apache License V2 |
 | Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
+| PhotoView | https://github.com/Baseflow/PhotoView | 이미지 줌 | Apache License V2 |
+
 
 
 ### Media
