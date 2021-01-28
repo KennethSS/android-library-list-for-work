@@ -91,6 +91,11 @@
 | richeditor-android | https://github.com/wasabeef/richeditor-android | Editor | Apache License V2 |
 
 
+### Gradle
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| dependency graph | https://github.com/vanniktech/gradle-dependency-graph-generator-plugin | generate dependency graph | Apache License V2 |
+
 
 
 
