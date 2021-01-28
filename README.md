@@ -25,6 +25,8 @@
 | UltimateRecyclerView | https://github.com/cymcsg/UltimateRecyclerView | List with animation | Apache License V2 |
 | GravitySnapHelper | https://github.com/rubensousa/GravitySnapHelper | SnapHelper | Apache License V2 |
 | epoxy | https://github.com/airbnb/epoxy | Complex ListView | Apache License V2 |
+| binding-collection-adapter | https://github.com/evant/binding-collection-adapter | Binding Collection | Apache License V2 |
+
 
 
 
