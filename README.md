@@ -46,6 +46,8 @@
 | subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view | 이미지 줌 | Apache License V2 |
 | Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
 | PhotoView | https://github.com/Baseflow/PhotoView | 이미지 줌 | Apache License V2 |
+| CircleImageView | https://github.com/hdodenhof/CircleImageView | 원형 이미지 | Apache License V2 |
+
 
 
 
