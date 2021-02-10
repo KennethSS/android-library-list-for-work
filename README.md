@@ -14,6 +14,7 @@
 | MVVM,Dagger2, Room, RxJava | https://github.com/MindorksOpenSource/android-mvvm-architecture | Apache License V2 |
 | Clean Architecture | https://github.com/bufferapp/android-clean-architecture-boilerplate.git | MIT License |
 | MvRx | https://github.com/airbnb/MvRx | MvRx | Apache License V2 |
+| Android-Kotlin-Clean-Architecture | https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture | Clean Architecture with DFM | none |
 
 
 
