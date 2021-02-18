@@ -7,7 +7,6 @@
 | DFM | https://github.com/nickbutcher/plaid | Apache License V2 |
 
 
-
 ### Architecture
 | Implements | Repository | Licence |
 |:------:|:-----------:|:---------:|
@@ -16,8 +15,6 @@
 | MvRx | https://github.com/airbnb/MvRx | MvRx | Apache License V2 |
 | Android-Kotlin-Clean-Architecture | https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture | Clean Architecture with DFM | none |
 | Android-ShowCase | https://github.com/igorwojda/android-showcase | Modern architecture | MIT License |
-
-
 
 
 ### Declarative UI
@@ -37,8 +34,6 @@
 | binding-collection-adapter | https://github.com/evant/binding-collection-adapter | Binding Collection | Apache License V2 |
 
 
-
-
 ### Image
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
@@ -49,8 +44,6 @@
 | Matisse | https://github.com/zhihu/Matisse | 멀티 이미지 픽커 | Apache License V2 |
 | PhotoView | https://github.com/Baseflow/PhotoView | 이미지 줌 | Apache License V2 |
 | CircleImageView | https://github.com/hdodenhof/CircleImageView | 원형 이미지 | Apache License V2 |
-
-
 
 
 ### Media
@@ -98,6 +91,7 @@
 | Alerter | https://github.com/Tapadoo/Alerter | Alert from Top | MIT License |
 | material-dialogs | https://github.com/afollestad/material-dialogs | Material dialog | Apache License V2 |
 
+
 ### Util
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
@@ -108,6 +102,12 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | dependency graph | https://github.com/vanniktech/gradle-dependency-graph-generator-plugin | generate dependency graph | Apache License V2 |
+
+
+### CustomView
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| AndroidSlidingUpPanel | https://github.com/umano/AndroidSlidingUpPanel | BottomSheet style view  | Apache License V2 |
 
 
 
