@@ -84,7 +84,7 @@
 |:------:|:-----------:|:---------:|:---------:|
 | mockito | https://github.com/mockito/mockito | Test for mock | MIT License |
 | mockito-kotlin | https://github.com/nhaarman/mockito-kotlin | Test for mock with kotlin | MIT License |
-| [mockito-kotlin](https://github.com/jacoco/jacoco) | None | Tool with test coverage | MIT License |
+| [jacoco](https://github.com/jacoco/jacoco) | None | Tool with test coverage | MIT License |
 
 
 
