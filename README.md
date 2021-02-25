@@ -6,6 +6,10 @@
 |:------:|:-----------:|:---------:|
 | DFM | https://github.com/nickbutcher/plaid | Apache License V2 |
 
+### Dependency Injection
+| Name | Note | Licence |
+| [daggraph](https://github.com/dvdciri/daggraph) | Making graph of dagger | MIT License |
+
 
 ### Architecture
 | Implements | Repository | Licence |
