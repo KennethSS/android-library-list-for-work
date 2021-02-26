@@ -8,6 +8,7 @@
 
 ### Dependency Injection
 | Name | Note | Licence |
+|:----:|:----:|:-------:|
 | [daggraph](https://github.com/dvdciri/daggraph) | Making graph of dagger | MIT License |
 
 
@@ -103,6 +104,8 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | richeditor-android | https://github.com/wasabeef/richeditor-android | Editor | Apache License V2 |
+| ThreeTenABP | https://github.com/JakeWharton/ThreeTenABP | Time | Apache License V2 |
+
 
 
 ### Gradle
