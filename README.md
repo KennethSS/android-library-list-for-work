@@ -124,4 +124,4 @@
 ### Convention
 | Name | Note | Licence |
 |:------:|:---------:|:---------:|
-| (android-guideline)[https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md] | Convention for android | Apache License V2 |
+| [android-guideline](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) | Convention for android | Apache License V2 |
