@@ -85,6 +85,7 @@
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
 | Timber | https://github.com/JakeWharton/timber | 디버깅 로그 | Apache License V2 |
+| logger | https://github.com/orhanobut/logger | 디버깅 로그 | Apache License V2 |
 
 
 ### Test
