@@ -22,6 +22,13 @@
 | Android-Kotlin-Clean-Architecture | https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture | Clean Architecture with DFM | none |
 | Android-ShowCase | https://github.com/igorwojda/android-showcase | Modern architecture | MIT License |
 
+### Network
+| Name | Repository | Note | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| RxAndroidBle | https://github.com/Polidea/RxAndroidBle | Bluetooth | Apache License V2 |
+
+
+
 
 ### Declarative UI
 | Name | Repository | Note | Licence |
