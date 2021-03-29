@@ -46,10 +46,12 @@
 | epoxy | https://github.com/airbnb/epoxy | Complex ListView | Apache License V2 |
 | binding-collection-adapter | https://github.com/evant/binding-collection-adapter | Binding Collection | Apache License V2 |
 
-### List
+### Network
 | Name | Repository | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
-| Fast-Android-Networking | https://github.com/amitshekhariitbhu/Fast-Android-Networking | Fast Network | Apache License V2 |
+| [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | Fast Network | Apache License V2 |
+| [Scarlet](https://github.com/Tinder/Scarlet) | A Retrofit inspired WebSocket client | BSD-3-Clause License |
+
 
 ### Image
 | Name | Repository | Note | Licence |
