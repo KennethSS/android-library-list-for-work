@@ -139,3 +139,10 @@
 | Name | Note | Licence |
 |:------:|:---------:|:---------:|
 | [android-guideline](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md) | Convention for android | Apache License V2 |
+
+### Parse
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [klaxon](https://github.com/cbeust/klaxon) | Parse JSON in Kotlin | Apache-2.0 License |
+
+
