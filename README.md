@@ -112,6 +112,8 @@
 | SmoothBottomBar | https://github.com/ibrahimsn98/SmoothBottomBar | BottomNavigation | MIT License |
 | Alerter | https://github.com/Tapadoo/Alerter | Alert from Top | MIT License |
 | material-dialogs | https://github.com/afollestad/material-dialogs | Material dialog | Apache License V2 |
+| TableView | https://github.com/evrencoskun/TableView | Awesome TableView | MIT License |
+
 
 
 ### Util
