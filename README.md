@@ -117,23 +117,23 @@
 
 
 ### Util
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| richeditor-android | https://github.com/wasabeef/richeditor-android | Editor | Apache License V2 |
-| ThreeTenABP | https://github.com/JakeWharton/ThreeTenABP | Time | Apache License V2 |
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [richeditor-android](https://github.com/wasabeef/richeditor-android) | Editor | Apache License V2 |
+| [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) | Time | Apache License V2 |
 
 
 
 ### Gradle
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| dependency graph | https://github.com/vanniktech/gradle-dependency-graph-generator-plugin | generate dependency graph | Apache License V2 |
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [dependency graph](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin) | generate dependency graph | Apache License V2 |
 
 
 ### CustomView
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| AndroidSlidingUpPanel | https://github.com/umano/AndroidSlidingUpPanel | BottomSheet style view  | Apache License V2 |
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | BottomSheet style view  | Apache License V2 |
 
 
 
