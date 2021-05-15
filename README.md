@@ -13,9 +13,9 @@
 
 
 ### Architecture
-| Implements | Repository | Licence |
+| Implements | Note | Licence |
 |:------:|:-----------:|:---------:|
-| MVVM,Dagger2, Room, RxJava | https://github.com/MindorksOpenSource/android-mvvm-architecture | Apache License V2 |
+| [Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture) | MVVM,Dagger2, Room, RxJava | Apache License V2 |
 | [Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) | None | MIT License |
 | [Clean Architecture Android](https://github.com/android10/Android-CleanArchitecture) | None | MIT License |
 | MvRx | https://github.com/airbnb/MvRx | MvRx | Apache License V2 |
@@ -66,10 +66,10 @@
 
 
 ### Media
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| Music-Player | https://github.com/andremion/Music-Player | Music Player | Apache License V2 |
-| android-youtube-player | https://github.com/PierfrancescoSoffritti/android-youtube-player | Youtube Player | MIT License |
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [Music-Player](https://github.com/andremion/Music-Player) | Music Player | Apache License V2 |
+| [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) | Youtube Player | MIT License |
 
 
 ### Animation
@@ -79,9 +79,9 @@
 
 
 ### Event
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| EventBus | https://github.com/greenrobot/EventBus | EventBus for java or android | Apache License V2 |
+| Name  | Note | Licence |
+|:------:|:---------:|:---------:|
+| [EventBus](https://github.com/greenrobot/EventBus) | EventBus for java or android | Apache License V2 |
 
 
 ### Performence
