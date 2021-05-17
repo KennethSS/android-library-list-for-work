@@ -128,6 +128,8 @@
 | Name | Note | Licence |
 |:------:|:---------:|:---------:|
 | [dependency graph](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin) | generate dependency graph | Apache License V2 |
+| [kotlin-dsl-sample](https://github.com/gradle/kotlin-dsl-samples) | samples of kotlin dsl | View license |
+
 
 
 ### CustomView
