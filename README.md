@@ -2,7 +2,7 @@
 안드로이드 개발 시 유용한 라이브러리 들을 아카이브 합니다.
 
 ### Application
-| Implements | Repository | Licence |
+| Name | Repository | Licence |
 |:------:|:-----------:|:---------:|
 | DFM | https://github.com/nickbutcher/plaid | Apache License V2 |
 
@@ -13,27 +13,28 @@
 
 
 ### Architecture
-| Implements | Note | Licence |
+| Name | Note | Licence |
 |:------:|:-----------:|:---------:|
 | [Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture) | MVVM,Dagger2, Room, RxJava | Apache License V2 |
 | [Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) | None | MIT License |
 | [Clean Architecture Android](https://github.com/android10/Android-CleanArchitecture) | None | MIT License |
-| MvRx | https://github.com/airbnb/MvRx | MvRx | Apache License V2 |
-| Android-Kotlin-Clean-Architecture | https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture | Clean Architecture with DFM | none |
-| Android-ShowCase | https://github.com/igorwojda/android-showcase | Modern architecture | MIT License |
+| [MvRx](https://github.com/airbnb/MvRx) | MvRx | Apache License V2 |
+| [Android-Kotlin-Clean-Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture) | Clean Architecture with DFM | none |
+| [Android-ShowCase](https://github.com/igorwojda/android-showcase) | Modern architecture | MIT License |
+
 
 ### Network
-| Name | Repository | Note | Licence |
+| Name | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
-| RxAndroidBle | https://github.com/Polidea/RxAndroidBle | Bluetooth | Apache License V2 |
+| [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) | Bluetooth | Apache License V2 |
 
 
 
 
 ### Declarative UI
-| Name | Repository | Note | Licence |
+| Name | Note | Licence |
 |:------:|:-----------:|:---------:|:---------:|
-| Anko | https://github.com/Kotlin/anko | Deprecated | Apache License V2 |
+| [Anko](https://github.com/Kotlin/anko) |  | Deprecated | Apache License V2 |
 | Compose | https://github.com/android/compose-samples | Jetpack Declarative UI | Apache License V2 |
 | Splitties | https://github.com/LouisCAD/Splitties | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
 
