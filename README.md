@@ -33,18 +33,23 @@
 
 ### Declarative UI
 | Name | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
+|:------:|:-----------:|:---------:|
 | [Anko](https://github.com/Kotlin/anko) |  | Deprecated | Apache License V2 |
-| Compose | https://github.com/android/compose-samples | Jetpack Declarative UI | Apache License V2 |
-| Splitties | https://github.com/LouisCAD/Splitties | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
+| [Compose](https://github.com/android/compose-samples) | Jetpack Declarative UI | Apache License V2 |
+| [Splitties](https://github.com/LouisCAD/Splitties) | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
 
 
 ### List
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
-| UltimateRecyclerView | https://github.com/cymcsg/UltimateRecyclerView | List with animation | Apache License V2 |
-| GravitySnapHelper | https://github.com/rubensousa/GravitySnapHelper | SnapHelper | Apache License V2 |
-| epoxy | https://github.com/airbnb/epoxy | Complex ListView | Apache License V2 |
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
+| [epoxy](https://github.com/airbnb/epoxy) | Complex ListView by Airbnb | Apache License V2 |
+| [fblitho](https://fblitho.com/) | by Facebook |  |
+| [proteus](https://github.com/flipkart-incubator/proteus) | by Flipkart | Apache License V2 |
+| [groupies](https://github.com/lisawray/groupies) | groupie | MIT License |
+| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | List with animation | Apache License V2 |
+| [GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper) | SnapHelper | Apache License V2 |
+
+
 | binding-collection-adapter | https://github.com/evant/binding-collection-adapter | Binding Collection | Apache License V2 |
 
 ### Network
