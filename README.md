@@ -39,6 +39,7 @@
 | [Anko](https://github.com/Kotlin/anko) |  | Deprecated | Apache License V2 |
 | [Compose](https://github.com/android/compose-samples) | Jetpack Declarative UI | Apache License V2 |
 | [Splitties](https://github.com/LouisCAD/Splitties) | Kotlin multiplatform libraries (with Android as first target). | Apache License V2 |
+| [binding-collection-adapter](https://github.com/evant/binding-collection-adapter) | Binding Collection | Apache License V2 |
 
 
 ### List
@@ -51,8 +52,6 @@
 | [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | List with animation | Apache License V2 |
 | [GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper) | SnapHelper | Apache License V2 |
 
-
-| binding-collection-adapter | https://github.com/evant/binding-collection-adapter | Binding Collection | Apache License V2 |
 
 ### Network
 | Name | Repository | Note | Licence |
