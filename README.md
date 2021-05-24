@@ -21,6 +21,8 @@
 | [MvRx](https://github.com/airbnb/MvRx) | MvRx | Apache License V2 |
 | [Android-Kotlin-Clean-Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture) | Clean Architecture with DFM | none |
 | [Android-ShowCase](https://github.com/igorwojda/android-showcase) | Modern architecture | MIT License |
+| [iosched](https://github.com/google/iosched) | Google I/O Android App | View license |
+
 
 
 ### Network
