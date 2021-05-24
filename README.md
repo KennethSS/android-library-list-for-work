@@ -54,8 +54,8 @@
 
 
 ### Network
-| Name | Repository | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
+| Name | Note | Licence |
+|:------:|:---------:|:---------:|
 | [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | Fast Network | Apache License V2 |
 | [Scarlet](https://github.com/Tinder/Scarlet) | A Retrofit inspired WebSocket client | BSD-3-Clause License |
 
