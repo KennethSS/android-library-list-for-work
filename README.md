@@ -1,5 +1,5 @@
 # android-library-list-for-work
-안드로이드 개발 시 유용한 라이브러리 들을 아카이브 합니다.
+안드로이드 개발 시 유용한 라이브러리 및 저장소들을 아카이브 합니다.
 
 ### Application
 | Name | Repository | Licence |
@@ -16,12 +16,17 @@
 | Name | Note | Licence |
 |:------:|:-----------:|:---------:|
 | [Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture) | MVVM,Dagger2, Room, RxJava | Apache License V2 |
-| [Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) | None | MIT License |
-| [Clean Architecture Android](https://github.com/android10/Android-CleanArchitecture) | None | MIT License |
 | [MvRx](https://github.com/airbnb/MvRx) | MvRx | Apache License V2 |
 | [Android-Kotlin-Clean-Architecture](https://github.com/sanogueralorenzo/Android-Kotlin-Clean-Architecture) | Clean Architecture with DFM | none |
 | [Android-ShowCase](https://github.com/igorwojda/android-showcase) | Modern architecture | MIT License |
 | [iosched](https://github.com/google/iosched) | Google I/O Android App | View license |
+
+
+### Clean Architecture
+| Name | Note | Licence |
+|:------:|:-----------:|:---------:|
+| [Clean Architecture Boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) | None | MIT License |
+| [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) | Android Clean Architecture | Apache-2.0 License |
 
 
 
