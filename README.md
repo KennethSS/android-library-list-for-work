@@ -32,7 +32,7 @@
 
 ### Network
 | Name | Note | Licence |
-|:------:|:-----------:|:---------:|:---------:|
+|:------:|:-----------:|:---------:|
 | [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) | Bluetooth | Apache License V2 |
 
 
