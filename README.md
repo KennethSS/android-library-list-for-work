@@ -140,6 +140,8 @@
 |:------:|:---------:|:---------:|
 | [richeditor-android](https://github.com/wasabeef/richeditor-android) | Editor | Apache License V2 |
 | [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) | Time | Apache License V2 |
+| [PinLockView](https://github.com/aritraroy/PinLockView) | Screen to lock | Apache-2.0 License |
+
 
 
 
