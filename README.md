@@ -150,7 +150,7 @@
 |:------:|:---------:|:---------:|
 | [dependency graph](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin) | generate dependency graph | Apache License V2 |
 | [kotlin-dsl-sample](https://github.com/gradle/kotlin-dsl-samples) | samples of kotlin dsl | View license |
-
+| [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | Reformatting code | MIT License |
 
 
 ### CustomView
