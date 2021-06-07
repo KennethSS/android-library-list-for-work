@@ -29,6 +29,11 @@
 | [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) | Android Clean Architecture | Apache-2.0 License |
 
 
+### Kotlin
+| Name | Note | Licence |
+|:------:|:-----------:|:---------:|
+| [dokka](https://github.com/Kotlin/dokka) | Dokka is a documentation engine for Kotlin | Apache-2.0 License |
+
 
 ### Network
 | Name | Note | Licence |
