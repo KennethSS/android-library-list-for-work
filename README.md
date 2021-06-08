@@ -110,6 +110,12 @@
 | lottie-android | https://github.com/airbnb/lottie-android | Lottie | Apache License V2 |
 
 
+### Font
+| Name  | Note | Licence |
+|:------:|:---------:|:---------:|
+| [d2codingfont](https://github.com/naver/d2codingfont) | 한글 최적화 가독성 폰트 | None |
+
+
 ### Event
 | Name  | Note | Licence |
 |:------:|:---------:|:---------:|
