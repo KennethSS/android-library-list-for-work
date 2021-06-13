@@ -2,17 +2,17 @@
 안드로이드 개발 시 유용한 라이브러리 및 저장소들을 아카이브 합니다.
 
 ### Android Studio Plugins
-| Name | Note | Licence |
-|:------:|:-----------:|:---------:|
-| [material-icon-generator](https://github.com/konifar/android-material-design-icon-generator-plugin)| This plugin help you to set material design icons to your Android project. | Apache-2.0 License |
+| Name | Note | else | Licence |
+|:------:|:-----------:|:-----------:|:---------:|
+| [material-icon-generator](https://github.com/konifar/android-material-design-icon-generator-plugin)| This plugin help you to set material design icons to your Android project. | O |Apache-2.0 License |
 
 
 
 
 ### Application
-| Name | Repository | Licence |
-|:------:|:-----------:|:---------:|
-| DFM | https://github.com/nickbutcher/plaid | Apache License V2 |
+| Name | Repository | else | Licence |
+|:------:|:-----------:|:---------:|:---------:|
+| DFM | https://github.com/nickbutcher/plaid | O | Apache License V2 |
 
 ### Dependency Injection
 | Name | Note | Licence |
