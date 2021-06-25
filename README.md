@@ -28,11 +28,24 @@
 |             *             |    [Compose](https://github.com/android/compose-samples)     |     [android](https://github.com/android) & library     | This repository contains a set of individual Android Studio projects to help you learn about Compose in Android. Each sample demonstrates different use cases, complexity levels and APIs. | [Apache-2.0 License](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
 |         **Font**          |    [d2codingfont](https://github.com/naver/d2codingfont)     |            [naver](https://github.com/naver)            |             개발을 위한 한글 최적화 가독성 폰트              |                             N/A                              |
 |         **Event**         |      [EventBus](https://github.com/greenrobot/EventBus)      |  [greenrobot](https://github.com/greenrobot) & library  | [EventBus](https://greenrobot.org/eventbus/) is a publish/subscribe event bus for Android and Java. | [Apache-2.0 License](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|      **Image Load**       |          [glide](https://github.com/bumptech/glide)          |         [bumptech](https://github.com/bumptech)         | Glide is a fast and efficient open source media management and image loading framework for Android | [View](https://github.com/PhilJay/MPAndroidChart/blob/master/LICENSE) |
+|             *             |           [coil](https://github.com/coil-kt/coil)            |          [coil-kt](https://github.com/coil-kt)          | An image loading library for Android backed by Kotlin Coroutines | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |         [fresco](https://github.com/facebook/fresco)         |         [facebook](https://github.com/facebook)         | Fresco is a powerful system for displaying images in Android applications. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
+|     **Image Picker**      |         [Matisse](https://github.com/zhihu/Matisse)          |            [zhihu](https://github.com/zhihu)            | Matisse is a well-designed local image and video selector for Android | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |       **[Pickle](https://github.com/Charlezz/Pickle)**       |         [Charlezz](https://github.com/Charlezz)         |             The fastest image picker for Android             | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|     **Image Zooming**     | [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) |    [davemorrissey](https://github.com/davemorrissey)    |                 Subsampling Scale Image View                 | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |      [PhotoView](https://github.com/Baseflow/PhotoView)      |         [Baseflow](https://github.com/Baseflow)         | PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|       **Image Etc**       |  [GlidePalette](https://github.com/florent37/GlidePalette)   |        [florent37](https://github.com/florent37)        |    Android Lollipop Palette is now easy to use with Glide    | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             | **[CircleImageView](https://github.com/hdodenhof/CircleImageView)** |        [hdodenhof](https://github.com/hdodenhof)        |               A circular ImageView for Android               | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |        **Network**        | [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) |         [ihsanbal](https://github.com/ihsanbal)         | Interceptor for [OkHttp3](https://github.com/square/okhttp) with pretty logger | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             |          [chuck](https://github.com/jgilfelt/chuck)          |         [jgilfelt](https://github.com/jgilfelt)         | huck is a simple in-app HTTP inspector for Android OkHttp clients | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
 |         **Test**          |        [mockito](https://github.com/mockito/mockito)         |     [mockito](https://github.com/mockito) & library     |           Most popular mocking framework for Java            | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             | [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) |     [mockito ](https://github.com/mockito)& library     | A small library that provides helper functions to work with [Mockito](https://github.com/mockito/mockito) in Kotlin. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             |          [jacoco](https://github.com/jacoco/jacoco)          |      [jacoco](https://github.com/jacoco) & library      |                                                              |                                                              |
+|       **ReactiveX**       |        [RxJava](https://github.com/ReactiveX/RxJava)         |                                                         | RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/) | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |      [RxKotlin](https://github.com/ReactiveX/RxKotlin)       |                                                         | RxKotlin is a lightweight library that adds convenient extension functions to [RxJava](https://github.com/ReactiveX/RxJava). | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |     [RxAndorid](https://github.com/ReactiveX/RxAndroid)      |                                                         | Android specific bindings for [RxJava 3](http://github.com/ReactiveX/RxJava). | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |   [RxAndroidBle](https://github.com/Polidea/RxAndroidBle)    |                                                         | RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 
 ### [Splitties](https://github.com/LouisCAD/Splitties)
 
@@ -82,17 +95,6 @@ Easy way to bind collections to listviews and recyclerviews with the new [Androi
 |         [Scarlet](https://github.com/Tinder/Scarlet)         | A Retrofit inspired WebSocket client | BSD-3-Clause License |
 
 
-### Image
-
-|             Name             |                          Repository                          |       Note       |      Licence      |
-| :--------------------------: | :----------------------------------------------------------: | :--------------: | :---------------: |
-|            Glide             |              https://github.com/bumptech/glide               |   이미지 로드    | Apache License V2 |
-|         GlidePalette         |          https://github.com/florent37/GlidePalette           | 이미지 컬러 추출 | Apache License V2 |
-|             Coil             |               https://github.com/coil-kt/coil                | 경량 이미지 로드 | Apache License V2 |
-| subsampling-scale-image-view | https://github.com/davemorrissey/subsampling-scale-image-view |    이미지 줌     | Apache License V2 |
-|           Matisse            |               https://github.com/zhihu/Matisse               | 멀티 이미지 픽커 | Apache License V2 |
-|          PhotoView           |            https://github.com/Baseflow/PhotoView             |    이미지 줌     | Apache License V2 |
-|       CircleImageView        |         https://github.com/hdodenhof/CircleImageView         |   원형 이미지    | Apache License V2 |
 
 
 
