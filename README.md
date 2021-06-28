@@ -4,11 +4,12 @@
 
 
 
+# Library
+
 |         Category          |                             Name                             |                         User & Type                          |                             Note                             |                           Licence                            |
 | :-----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Android Studio Plugin** | [material-icon-generator](https://github.com/konifar/android-material-design-icon-generator-plugin) |                                                              | This plugin help you to set material design icons to your Android project. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |      **Animtation**       |  [lottie-android](https://github.com/airbnb/lottie-android)  |        [airbnb](https://github.com/airbnb) & library         | Lottie is a mobile library for Android and iOS that parses [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations exported as json with [Bodymovin](https://github.com/airbnb/lottie-web) and renders them natively on mobile! | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|      **Application**      |        [plaid](https://github.com/nickbutcher/plaid)         |                                                              | Plaid was written with one big goal: showcase material design in Android in a real application. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |      **Application**      | [Android-ShowCase](https://github.com/igorwojda/android-showcase) |          [igorwojda](https://github.com/igorwojda)           | Showcase is a sample project that presents a modern, 2021 approach to [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) application development. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |      **Application**      |         [iosched](https://github.com/google/iosched)         |              [oogle](https://github.com/google)              |                    Google I/O Android App                    | [View license](https://github.com/PhilJay/MPAndroidChart/blob/master/LICENSE) |
 |     **Architecture**      | [Android MVVM Architecture: Sample App](https://github.com/MindorksOpenSource/android-mvvm-architecture) |      [MindOrks](https://github.com/MindorksOpenSource)       | This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
@@ -63,6 +64,16 @@
 |          **Etc**          | [richeditor-android](https://github.com/wasabeef/richeditor-android) |           [wasabeef](https://github.com/wasabeef)            | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |  [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)   |        [JakeWharton](https://github.com/JakeWharton)         |                                                              | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |   [PinLockView](https://github.com/aritraroy/PinLockView)    |          [aritraroy](https://github.com/aritraroy)           |                              \\                              | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+
+
+
+# Repository
+
+|    Category     |                     Name                      |                     User                      |                             Note                             |                           Licence                            |
+| :-------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Application** | [plaid](https://github.com/nickbutcher/plaid) | [nickbutcher](https://github.com/nickbutcher) | An Android app which provides design news & inspiration as well as being an example of implementing material design. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+
+
 
 ### [Splitties](https://github.com/LouisCAD/Splitties)
 
