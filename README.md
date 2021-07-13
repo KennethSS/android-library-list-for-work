@@ -77,6 +77,16 @@
 
 
 
+# Document
+
+|  Category  |                             Name                             |                   User                    |                 Note                  |                           Licence                            |
+| :--------: | :----------------------------------------------------------: | :---------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: |
+| **Kotlin** | **[Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)** | [dbacinski](https://github.com/dbacinski) | Design Patterns implemented in Kotlin | [GPL](https://github.com/dbacinski/Design-Patterns-In-Kotlin/blob/master/LICENSE) |
+
+
+
+
+
 ### [Splitties](https://github.com/LouisCAD/Splitties)
 
 Splitties is a collection of small Kotlin multiplatform libraries (with Android as first target).
