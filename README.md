@@ -1,8 +1,4 @@
-# android-library-list-for-work
-
-안드로이드 개발 시 유용한 라이브러리 및 저장소들을 아카이브 합니다.
-
-
+## 안드로이드 개발 시 유용한 라이브러리 및 저장소들을 아카이브 합니다.
 
 # Library
 
@@ -28,8 +24,10 @@
 | **Dependency Injection**  |       [daggraph](https://github.com/dvdciri/daggraph)        |            [dvdciri](https://github.com/dvdciri)             | This library is now deprecated in favour of solutions based directly on the Dagger PSI (`BindingGraphPlugin`). The project will no longer be maintained. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |    **Declarative UI**     |            [Anko](https://github.com/Kotlin/anko)            |                                                              | Anko is a [Kotlin](https://www.kotlinlang.org/) library which makes Android application development faster and easier | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |    [Compose](https://github.com/android/compose-samples)     |            [android](https://github.com/android)             | This repository contains a set of individual Android Studio projects to help you learn about Compose in Android. Each sample demonstrates different use cases, complexity levels and APIs. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|         **Font**          |    [d2codingfont](https://github.com/naver/d2codingfont)     |              [naver](https://github.com/naver)               |             개발을 위한 한글 최적화 가독성 폰트              |                             N/A                              |
 |         **Event**         |      [EventBus](https://github.com/greenrobot/EventBus)      |         [greenrobot](https://github.com/greenrobot)          | [EventBus](https://greenrobot.org/eventbus/) is a publish/subscribe event bus for Android and Java. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|         **Font**          |    [d2codingfont](https://github.com/naver/d2codingfont)     |              [naver](https://github.com/naver)               |             개발을 위한 한글 최적화 가독성 폰트              |                             N/A                              |
+|        **Groovy**         |                           **Name**                           |                           **User**                           |                           **Note**                           |                         **Licence**                          |
+|             *             | **[gradle-dependency-graph-generator-plugin](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin)** |         [vanniktech](https://github.com/vanniktech)          | Gradle plugin that generates dependency graphs from your project | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |      **Image Load**       |          [glide](https://github.com/bumptech/glide)          |           [bumptech](https://github.com/bumptech)            | Glide is a fast and efficient open source media management and image loading framework for Android | [View](https://github.com/PhilJay/MPAndroidChart/blob/master/LICENSE) |
 |             *             |           [coil](https://github.com/coil-kt/coil)            |            [coil-kt](https://github.com/coil-kt)             | An image loading library for Android backed by Kotlin Coroutines | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |         [fresco](https://github.com/facebook/fresco)         |           [facebook](https://github.com/facebook)            | Fresco is a powerful system for displaying images in Android applications. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
@@ -39,9 +37,20 @@
 |             *             |      [PhotoView](https://github.com/Baseflow/PhotoView)      |           [Baseflow](https://github.com/Baseflow)            | PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |       **Image Etc**       |  [GlidePalette](https://github.com/florent37/GlidePalette)   |          [florent37](https://github.com/florent37)           |    Android Lollipop Palette is now easy to use with Glide    | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             | **[CircleImageView](https://github.com/hdodenhof/CircleImageView)** |          [hdodenhof](https://github.com/hdodenhof)           |               A circular ImageView for Android               | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|         **Json**          |                           **Name**                           |                           **User**                           |                           **Note**                           |                         **Licence**                          |
+|             *             |         **[moshi](https://github.com/square/moshi)**         |             [square](https://github.com/square)              |          A modern JSON library for Kotlin and Java.          | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |          **[gson](https://github.com/google/gson)**          |             [google](https://github.com/google)              | A Java serialization/deserialization library to convert Java Objects into JSON and back | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |        **[klaxon](https://github.com/cbeust/klaxon)**        |             [cbeust](https://github.com/cbeust)              |                   A JSON parser for Kotlin                   | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |     **[jackson](https://github.com/FasterXML/jackson)**      |          [FasterXML](https://github.com/FasterXML)           |           Main Portal page for the Jackson project           |                                                              |
 |        **Kotlin**         |           [dokka](https://github.com/Kotlin/dokka)           |             [Kotlin](https://github.com/Kotlin)              |          Dokka is a documentation engine for Kotlin          | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|             *             |                                                              |                                                              |                                                              |                                                              |
-|         **List**          |                                                              |                                                              |                                                              |                                                              |
+|             *             |       [ReKotlin](https://github.com/ReKotlin/ReKotlin)       |           [ReKotlin](https://github.com/ReKotlin)            | Unidirectional Data Flow in Kotlin - Port of https://github.com/ReSwift/ReSwift to Kotlin | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
+|         **List**          |         **[epoxy](https://github.com/airbnb/epoxy)**         |             [airbnb](https://github.com/airbnb)              | poxy is an Android library for building complex screens in a RecyclerView | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
+|             *             | [binding-collection-adapter](https://github.com/evant/binding-collection-adapter) |              [evant](https://github.com/evant)               | Easy way to bind collections to listviews and recyclerviews with the new Android Data Binding framework | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
+|             *             |        **[litho](https://github.com/facebook/litho)**        |           [facebook](https://github.com/facebook)            | A declarative framework for building efficient UIs on Android. | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
+|             *             |   [proteus](https://github.com/flipkart-incubator/proteus)   | [flipkart-incubator](https://github.com/flipkart-incubator)  |      Proteus : A JSON based LayoutInflater for Android       | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
+|             *             |      **[groupie](https://github.com/lisawray/groupie)**      |           [lisawray](https://github.com/lisawray)            | Groupie helps you display and manage complex RecyclerView layouts. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
+|             *             | **[UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView)** |             [cymcsg](https://github.com/cymcsg)/             | A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features. | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
+|             *             | **[GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper)** |         [rubensousa](https://github.com/rubensousa)          |      A SnapHelper that snaps a RecyclerView to an edge.      | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
 |        **Layout**         | **[flexbox-layout](https://github.com/google/flexbox-layout)** |             [google](https://github.com/google)              | FlexboxLayout is a library project which brings the similar capabilities of [CSS Flexible Box Layout Module](https://www.w3.org/TR/css-flexbox-1) to Android. | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
 |        **Network**        | [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) |           [ihsanbal](https://github.com/ihsanbal)            | Interceptor for [OkHttp3](https://github.com/square/okhttp) with pretty logger | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             |      **[retrofit](https://github.com/square/retrofit)**      |             [square](https://github.com/square)              |        A type-safe HTTP client for Android and Java.         | [Apache](https://github.com/nickbutcher/plaid/blob/main/LICENSE) |
@@ -53,6 +62,8 @@
 |         **Test**          |        [mockito](https://github.com/mockito/mockito)         |       [mockito](https://github.com/mockito) & library        |           Most popular mocking framework for Java            | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             | [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) |       [mockito ](https://github.com/mockito)& library        | A small library that provides helper functions to work with [Mockito](https://github.com/mockito/mockito) in Kotlin. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             |          [jacoco](https://github.com/jacoco/jacoco)          |        [jacoco](https://github.com/jacoco) & library         |                                                              |                                                              |
+|      **Performance**      |                           **Name**                           |                           **User**                           |                           **Note**                           |                         **Licence**                          |
+|             *             |    **[leakcanary](https://github.com/square/leakcanary)**    |             [square](https://github.com/square)              |         A memory leak detection library for Android.         | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |       **ReactiveX**       |        [RxJava](https://github.com/ReactiveX/RxJava)         |                                                              | RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io/) | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |      [RxKotlin](https://github.com/ReactiveX/RxKotlin)       |                                                              | RxKotlin is a lightweight library that adds convenient extension functions to [RxJava](https://github.com/ReactiveX/RxJava). | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 |             *             |     [RxAndorid](https://github.com/ReactiveX/RxAndroid)      |                                                              | Android specific bindings for [RxJava 3](http://github.com/ReactiveX/RxJava). | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
@@ -62,12 +73,13 @@
 |         **View**          | [SmoothBottomBar](https://github.com/ibrahimsn98/SmoothBottomBar) |        [ibrahimsn98](https://github.com/ibrahimsn98)         | A lightweight Android material bottom navigation bar library | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             |        [Alerter](https://github.com/Tapadoo/Alerter)         |            [Tapadoo](https://github.com/Tapadoo)             |                 An Android Alerting Library                  | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
 |             *             | [material-dialogs](https://github.com/afollestad/material-dialogs) |         [afollestad](https://github.com/afollestad)          | A beautiful, fluid, and extensible dialogs API for Kotlin & Android. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|             *             |    [TableView](https://github.com/evrencoskun/TableView)     |        [evrencoskun](https://github.com/evrencoskun)         | TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells. |                                                              |
-|          **Etc**          | [richeditor-android](https://github.com/wasabeef/richeditor-android) |           [wasabeef](https://github.com/wasabeef)            | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|             *             |  [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)   |        [JakeWharton](https://github.com/JakeWharton)         |                                                              | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-|             *             |   [PinLockView](https://github.com/aritraroy/PinLockView)    |          [aritraroy](https://github.com/aritraroy)           |                              \\                              | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-
-
+|             *             |    [TableView](https://github.com/evrencoskun/TableView)     |        [evrencoskun](https://github.com/evrencoskun)         | TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells. | [MIT](https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/LICENSE) |
+|             *             |    **[Splitties](https://github.com/LouisCAD/Splitties)**    |           [LouisCAD](https://github.com/LouisCAD)            | A collection of hand-crafted extensions for your Kotlin projects. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             | **[richeditor-android](https://github.com/wasabeef/richeditor-android)** |           [wasabeef](https://github.com/wasabeef)            | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             | **[PinLockView](https://github.com/aritraroy/PinLockView)**  |          [aritraroy](https://github.com/aritraroy)           | A clean, minimal, highly customizable pin lock view for Android | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|          **Etc**          |                           **Name**                           |                           **User**                           |                           **Note**                           |                         **Licence**                          |
+|             *             |  [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)   |        [JakeWharton](https://github.com/JakeWharton)         |      An adaptation of the JSR-310 backport for Android.      | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|             *             |    **[EventBus](https://github.com/greenrobot/EventBus)**    |         [greenrobot](https://github.com/greenrobot)          | Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
 
 # Tool
 
@@ -77,87 +89,13 @@
 
 # Repository
 
-|    Category     |                     Name                      |                     User                      |                             Note                             |                           Licence                            |
-| :-------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Application** | [plaid](https://github.com/nickbutcher/plaid) | [nickbutcher](https://github.com/nickbutcher) | An Android app which provides design news & inspiration as well as being an example of implementing material design. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
-
-
+|    Category     |                             Name                             |                     User                      |                             Note                             |                           Licence                            |
+| :-------------: | :----------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **Application** |        [plaid](https://github.com/nickbutcher/plaid)         | [nickbutcher](https://github.com/nickbutcher) | An Android app which provides design news & inspiration as well as being an example of implementing material design. | [Apache](https://github.com/greenrobot/EventBus/blob/master/LICENSE) |
+|   **Kotlin**    | **[kotlin-dsl-samples](https://github.com/gradle/kotlin-dsl-samples)** |      [gradle](https://github.com/gradle)      |          Samples builds using the Gradle Kotlin DSL          | [View](https://github.com/PhilJay/MPAndroidChart/blob/master/LICENSE) |
 
 # Document
 
-|  Category  |                             Name                             |                   User                    |                 Note                  |                           Licence                            |
-| :--------: | :----------------------------------------------------------: | :---------------------------------------: | :-----------------------------------: | :----------------------------------------------------------: |
-| **Kotlin** | **[Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)** | [dbacinski](https://github.com/dbacinski) | Design Patterns implemented in Kotlin | [GPL](https://github.com/dbacinski/Design-Patterns-In-Kotlin/blob/master/LICENSE) |
-
-
-
-
-
-### [Splitties](https://github.com/LouisCAD/Splitties)
-
-Splitties is a collection of small Kotlin multiplatform libraries (with Android as first target).
-
-[binding-collection-adapter](https://github.com/evant/binding-collection-adapter)
-
-Easy way to bind collections to listviews and recyclerviews with the new [Android Data Binding framework](https://developer.android.com/tools/data-binding/guide.html).
-
-
-
-
-
-
-### List
-
-|                             Name                             |            Note            |      Licence      |
-| :----------------------------------------------------------: | :------------------------: | :---------------: |
-|           [epoxy](https://github.com/airbnb/epoxy)           | Complex ListView by Airbnb | Apache License V2 |
-|               [fblitho](https://fblitho.com/)                |        by Facebook         |                   |
-|   [proteus](https://github.com/flipkart-incubator/proteus)   |        by Flipkart         | Apache License V2 |
-|       [groupies](https://github.com/lisawray/groupies)       |          groupie           |    MIT License    |
-| [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) |    List with animation     | Apache License V2 |
-| [GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper) |         SnapHelper         | Apache License V2 |
-
-
-
-
-### Event
-
-|                        Name                        |             Note             |      Licence      |
-| :------------------------------------------------: | :--------------------------: | :---------------: |
-| [EventBus](https://github.com/greenrobot/EventBus) | EventBus for java or android | Apache License V2 |
-
-
-### Performence
-
-|    Name    |              Repository              |       Note       |      Licence      |
-| :--------: | :----------------------------------: | :--------------: | :---------------: |
-| leakcanary | https://github.com/square/leakcanary | 메모리 누수 검출 | Apache License V2 |
-
-
-
-### Util
-
-|                             Name                             |      Note      |      Licence       |
-| :----------------------------------------------------------: | :------------: | :----------------: |
-| [richeditor-android](https://github.com/wasabeef/richeditor-android) |     Editor     | Apache License V2  |
-|  [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP)   |      Time      | Apache License V2  |
-|   [PinLockView](https://github.com/aritraroy/PinLockView)    | Screen to lock | Apache-2.0 License |
-
-
-
-
-### Gradle
-
-|                             Name                             |           Note            |      Licence      |
-| :----------------------------------------------------------: | :-----------------------: | :---------------: |
-| [dependency graph](https://github.com/vanniktech/gradle-dependency-graph-generator-plugin) | generate dependency graph | Apache License V2 |
-| [kotlin-dsl-sample](https://github.com/gradle/kotlin-dsl-samples) |   samples of kotlin dsl   |   View license    |
-|  [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)  |     Reformatting code     |    MIT License    |
-
-
-
-### Parse
-
-|                    Name                    |         Note         |      Licence       |
-| :----------------------------------------: | :------------------: | :----------------: |
-| [klaxon](https://github.com/cbeust/klaxon) | Parse JSON in Kotlin | Apache-2.0 License |
+|  Category  |                             Name                             |                   User                    |                 Note                  | Licence |
+| :--------: | :----------------------------------------------------------: | :---------------------------------------: | :-----------------------------------: | :-----: |
+| **Kotlin** | **[Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)** | [dbacinski](https://github.com/dbacinski) | Design Patterns implemented in Kotlin | [GPL](  |
